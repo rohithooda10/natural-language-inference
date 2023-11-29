@@ -5,7 +5,11 @@ Welcome to the Natural Language Inference Exploration project! This repository c
 
 ## Outcome
 <img width="920" alt="Screenshot 2023-11-29 at 5 12 43 PM" src="https://github.com/rohithooda10/natural-language-inference/assets/109358642/0ad9226f-1bcb-4cc5-b741-4db975946ce6">
+
+<img width="920" alt="Screenshot 2023-11-29 at 5 12 53 PM" src="https://github.com/rohithooda10/natural-language-inference/assets/109358642/c8960ad3-0aad-4587-aeab-d2f42f31ad33">
+
 <img width="920" alt="Screenshot 2023-11-29 at 5 13 04 PM" src="https://github.com/rohithooda10/natural-language-inference/assets/109358642/6ad65be4-a2f6-47e9-a4d9-368f30a25a38">
+
 
 
 ## Motivation
